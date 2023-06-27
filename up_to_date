@@ -1,0 +1,8 @@
+git <file-name>
+git add <file-name>
+git add .
+git commit -m 'commit massage'
+git push
+git push <repo-name>
+git push <repo-name> <branch>
+git branch <my-new-branch>
